@@ -1,0 +1,15 @@
+#list-example{
+	position: fixed;
+	width: 30%;
+	top:20px;
+}
+#list-item-1,#list-item-2,#list-item-3,#list-item-4{
+	padding-top: 50px;
+	padding-bottom: 75px;
+}
+p{
+	padding-right: 10%;
+}
+.fat{
+	background-color: lightblue;
+}
